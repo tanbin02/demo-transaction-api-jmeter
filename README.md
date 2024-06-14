@@ -62,7 +62,12 @@ The test scenario includes the following steps:
    - Run the test plan by clicking the green start button in JMeter.
 
 3. **Analyze Results:**
-   - Use the listeners to analyze the performance and response of the system under test.
+   - Use the listeners to analyze the performance and response of the system under test
+
+## Output:
+## jmeter html report:
+![image](https://github.com/tanbin02/demo-transaction-api-jmeter/assets/95366983/a573943d-3559-4351-89f8-66b8ca7cad59)
+
 
 ## Conclusion
 
